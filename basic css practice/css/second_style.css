@@ -1,0 +1,12 @@
+.top{
+    background-color: white;
+    color: white;
+}
+
+#middle{
+    color: white;
+    height: 1500px;
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNTQ2LWt1bC0wNl8xLmpwZw.jpg");
+
+    background-size: cover;
+}

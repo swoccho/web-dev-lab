@@ -1,0 +1,25 @@
+p{
+    font-size: xx-large;
+    text-align: center;
+    font-family: "Adwaita Sans";
+}
+#head{
+    font-style: normal;
+    text-align: center;
+}
+
+.list{
+
+    text-align: center;
+    color: blue;
+}
+
+.part{
+    text-align: right;
+    background: pink;
+    color: purple;
+}
+
+*{
+    color: white;
+}

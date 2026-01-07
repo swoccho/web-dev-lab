@@ -1,0 +1,18 @@
+nav ul{
+    list-style-type: none;
+    display: flex;
+
+}
+nav ul a{
+    text-decoration: none;
+    color : black;
+
+
+}
+nav ul li {
+    margin-right: 10px ;
+}
+nav ul li:hover{
+
+    background-color: deeppink;
+}

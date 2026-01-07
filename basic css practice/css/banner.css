@@ -1,0 +1,35 @@
+.banner-container{
+    background-color: aqua;
+    display: flex;
+    border-radius: 60px;
+    align-items:center ;
+    padding: 20px;
+
+}
+.banner-container img{
+    height: 400px;
+    width: 350px;
+    border-radius: 50%;
+}
+.banner-container button{
+    background-color: red;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+.banner-container button:hover{
+    background-color: lime;
+
+}
+#banner-text{
+    max-width: 500px;
+}
+body{
+    background-color: blueviolet;
+    margin: 0 auto;
+    max-width: 1200px;
+}
