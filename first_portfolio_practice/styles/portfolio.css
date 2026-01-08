@@ -201,3 +201,22 @@ nav .menu a {
     color: #757575;
 }
 
+
+#resume{
+    padding-top: 130px;
+}
+
+#resume .resume-container{
+    display: flex;
+    width: 71%;
+    max-width: 1140px;
+    margin: 113px auto;
+    gap: 24px;
+}
+
+.resume-container .resume-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
