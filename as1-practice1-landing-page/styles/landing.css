@@ -204,7 +204,7 @@ nav .menu a{
     border-radius: 8px;
     text-align: center;
     padding: 69px 24px;
-    box-shadow: 0px 0px 8px rgba(0,0,0,0.6) ;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.2) ;
 
 }
 .note-box .note-card h2{
@@ -220,5 +220,62 @@ nav .menu a{
 
 .note-box{
     margin-top: 44px;
+}
+
+#second-brain .second-brain-container{
+    display: flex;
+    max-width: 1360px;
+    margin: 0 auto;
+    padding:120px;
+    gap: 60px;
+}
+
+#second-brain .second-brain-container #second-brain-image{
+    height: 600px;
+    width: 600px;
+}
+
+#second-brain-title{
+    font-size: 16px;
+    line-height: 20px;
+    color:#30B868;
+
+}
+.second-heading-content{
+    padding-top: 102px;
+    max-width: 770px;
+}
+.second-heading-content h1{
+    font-size: 48px;
+    font-weight: bold;
+    padding: 16px 0px 16px;
+}
+
+.second-heading-content p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
+#second-brain-checks{
+    padding-top: 40px;
+}
+#second-brain-checks img{
+
+    height: 20px;
+    width: 20px;
+
+}
+#second-brain-checks  li{
+    display: flex;
+    gap: 6px;
+    padding-bottom: 16px;
+}
+#second-brain-checks li p{
+    display: inline-block;
+
+    font-size: 16px;
+}
+#second-brain-checks li{
+    list-style: none;
 }
 
