@@ -66,6 +66,7 @@ nav{
     margin: 0 auto;
     align-items: center;
     padding-top: 16px;
+    padding-bottom: 16px;
 
 }
 nav .menu{
@@ -89,9 +90,14 @@ nav .menu a{
     cursor: pointer;
     color: white;
     font-size: 16px;
+    align-items: center;
     font-weight: 600;
 
 
+}
+
+.btn:hover{
+    background-color: blue;
 }
 
 .banner-content{
@@ -102,6 +108,7 @@ nav .menu a{
 
 #banner{
     background-image: url("../images/hero-bg.png");
+    background-size: cover;
     height: 674px;
     margin: 0px;
     border-top: 1px solid transparent;
@@ -143,6 +150,10 @@ nav .menu a{
 
 .banner-btn .btn{
     margin-right: 16px;
+}
+
+.banner-btn .btn:hover{
+    background-color: red;
 }
 
 .banner-btn .transparent{
